@@ -1,0 +1,10 @@
+# TIL
+- OOP 이론 공부
+    - 자바 JVM 전체 구성도 학습
+    - JVM GC(가비지 컬렉터)
+        - GC 종류에 대해서 학습(G1 GC, Pallel GC)
+        - GC 알고리즘에 대해서 학습(Mark-Sweep-Compact)
+    - sync, async, blocking, non-blocking 학습
+
+- 금일 공부 시간 이론 공부 6시간
+- 자바 JVM 전체 구성도를 학습하면서 다시 복습하는 시간을 가졌다. 전에 한번 보고 정확하게 개념을 정리하지 못한 부분까지 다시 복습하는 기회가 되어서 뜻깊은 학습인 것 같다.
