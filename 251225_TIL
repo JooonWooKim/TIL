@@ -1,0 +1,12 @@
+# TIL
+- 스프링 이론 공부
+    - 프록시 패턴이란?
+    - 프록시 패턴의 두가지 종류
+    - 프록시 패턴을 왜 사용하는가?
+    - 인터셉터, AOP, Filter 차이점
+- JPA 
+    - @NoArgsConstructor(access = AccessLevel.PROTECTED)에 대하여
+- 프로젝트 
+    - 엔티티 생성 및 프로젝트 초기 세팅
+
+- 금일 공부 시간 이론 공부 5시간
